@@ -23,6 +23,7 @@ Git, Jupyter(notebook), Slack, Email
 AWS, on-premises
 
 # Work Experience
+- NTT研究所 SIC
 ## Research
 - 幾何計算アルゴリズム(Point-in-Polygon test)の高速化
 
@@ -33,11 +34,9 @@ AWS, on-premises
 
 # Education
 - 2012-2016
-  - 名古屋工業大学 情報工学科
-  - 強化学習(Q学習)の応用研究
+  - 名古屋工業大学 情報工学科: 強化学習(Q学習)の応用研究
 - 2016-2018
-  - 名古屋大学大学院 情報科学研究科
-  - スパコン(FX100)上における並列計算/メモリアクセス最適化/通信削減の研究
+  - 名古屋大学大学院 情報科学研究科: スパコン(FX100)上における並列計算/メモリアクセス最適化/通信削減の研究
   
 # Hobbies
 競技プログラミング, webアプリ開発, 技術書や技術記事を読むこと
@@ -65,6 +64,7 @@ AWS, on-premises
 - [MPIと通信削減アルゴリズムによるアジョイント法の高性能化;池田 et al., 第162回HPC研究会, 2017.](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=184896&item_no=1)
 - [アジョイント法におけるForward modelへの階層ブロッキング適用による高性能化;池田 et al., 第157回HPC研究会, 2016.](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_action_common_download&block_id=8&page_id=13&item_id=176384&item_no=1&attribute_id=1&file_no=1)
 - [DPMAT2018 発表資料](http://www.abc-lib.org/Workshop/DPMAT2017-ikeda.pdf)
+- [RedisConf19参加記](https://medium.com/nttlabs/redisconf19-58eec0b1f6d2)
 
 # ContactMe
 - twitter(@motacapla)

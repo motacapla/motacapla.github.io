@@ -1,126 +1,52 @@
-# Space Jekyll
-
-A simple and elegant Jekyll theme based on Spacemacs. The theme works well on mobile devices as well.
-
-See a live demo [here](https://victorvoid.github.io/space-jekyll-template/).
-
-![](https://github.com/victorvoid/space-jekyll-template/blob/master/screenshot.png?raw=true)
-
-# Site/User Settings
-
-customize your site in ``_config.yml``
-
-```ruby
-
-# Site settings
-description: A blog about lorem ipsum
-baseurl: "" # the subpath
-url: "" # the base hostname &/|| protocol for your site
-
-# User settings
-username: Lorem Ipsum
-user_description: Lorem Developer
-user_title: Lorem Ipsum
-email: lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-disqus_username: loremipsum
-
-```
-
-See more about project and links in [_config.yml](./_config.yml)
-
-## How to create a post ?
-
-_posts create a file .md with structure:
-
-```md
 ---
-layout: post
-title: "Lorem ipsum speak.."
-date: 2016-09-13 01:00:00
-image: '/assets/img/post-image.png'
-description: 'about tech'
-tags:
-- lorem
-- tech
-categories:
-- Lorem ipsum
-twitter_text: 'How to speak with Lorem'
+title: Portfolio
+layout: default
 ---
-```
 
-## How to insert new links on menu navigation ?
+# AboutMe
+初めまして! 研究開発のお仕事をしている[tikeda](https://twitter.com/motacapla)と申します. 現在社会人2年目で, 現職では通信系企業で研究開発に携わっています. (2019/5/19 更新)
 
-![](https://github.com/victorvoid/space-jekyll-template/blob/master/src/img/menu.png)
+# Skills
+## Languages
+C/C++, Python, Java, Fortran, Golang, Vue.js
 
-You should open `_config.yml` and change/add `links` section:
+## Databases
+Redis, Elasticsearch, PostGIS(PostgreSQL)
 
-```yaml
-links:
-  section_1: # you can use any name
-    - title: home # show on menu
-      url: / #link
-      key_trigger: 1 # link shortcut and show on the left of the title
-    - title: my posts
-      url: /posts
-      key_trigger: 2
-    - title: series
-      url: /series
-      key_trigger: 3
-    - title: tags
-      url: /tags
-      key_trigger: 4
-    - title: about me
-      url: /about
-      key_trigger: 5
-```
+## Libraries
+GEOS, JTS topology suite, MPI, OpenMP
 
-Frontend Technologies
----------------------
-* [Gulp](https://gulpjs.com/): The streaming build system.
-* [Stylus](http://stylus-lang.com/): expressive, dynamic, robust CSS.
-* [BrowserSync](https://www.browsersync.io/): Time-saving synchronised browser testing.
-* [Rupture](https://github.com/jescalan/rupture): Simple media queries for stylus.
-* [Kouto-Swiss](http://kouto-swiss.io/): A complete CSS framework for Stylus.
-* [Jeet](http://jeet.gs/): A grid system for human.
-* [Zepto.js](http://zeptojs.com/): The aerogel-weight jQuery-compatible JavaScript library.
+## Tools
+Git, Jupyter(notebook), Slack, Email
 
-## How can I modify the theme ?
+## Others
+AWS, on-premises
 
-First, install [jekyll](https://jekyllrb.com/) and [node.js](https://nodejs.org/).
+# Works
+## Research
+- 高性能な幾何計算アルゴリズムの研究
 
-1. Fork the theme with your username, example: `charlie.github.io`
-2. Clone repository to your computer
-3. run `npm install`
-4. run `gulp`
-5. Be happy by modifying the files
+## Development
+- 全文検索システムの開発
+- 高速データ管理技術の機能/性能検証
+- 機械学習/深層学習を用いた不良品検知
 
-**Space Jekyll** uses the [Stylus](http://stylus-lang.com/) to process his css, then modifies the style of the theme in [this folder](https://github.com/victorvoid/space-jekyll-template/tree/master/src/styl).
-
-You can go in the [variable.styl](https://github.com/victorvoid/space-jekyll-template/blob/master/src/styl/_variables.styl) and modify the colors. 
+# Hobbies
+競技プログラミング, web開発, 技術書や技術記事を読むこと
+- [競プロコンテストサイト(Vue.js + firebase)](https://bit.ly/2I58ioQ)
+- [世界各国のAmazonから最安値商品を検索するアプリ(Java)](https://qiita.com/motacapla/items/f02233f0feea7cad9244)
+- [バンディットアルゴリズムの実装(Golang)](https://github.com/motacapla/Multi-armed-Bandit-Algorithms)
 
 
-## License
-The MIT License (MIT)
+# Interests
+高速化, 幾何計算, データ分析(機械学習/深層学習を用いた回帰/分類/異常検知, 推薦), 強化学習, バンディット問題, 分散処理, 分散システム
 
-Copyright (c) 2016 Victor Igor
+# Publications
+- 時空間ブロッキングを用いたアジョイント法の高性能化～ForwardとBackwardの計算～, 池田 朋哉 et al., 情報処理学会論文誌コンピューティングシステム(ACS) Vo.11 No.1 pp.12-26, 2018.
+- Optimizing Forward Computation in Adjoint Method via Multi-level Blocking, Tomoya Ikeda et al., HPCAsia2018, 2018.
+- MPIと通信削減アルゴリズムによるアジョイント法の高性能化;池田 et al., 第162回HPC研究会, 2017.
+- アジョイント法におけるForward modelへの階層ブロッキング適用による高性能化;池田 et al., 第157回HPC研究会, 2016.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+# ContactMe
+- twitter(@motacapla)
+- email(t.i.motacapla[at]gmail.com)

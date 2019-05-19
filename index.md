@@ -23,14 +23,15 @@ Git, Jupyter(notebook), Slack, Email
 AWS, on-premises
 
 # Work Experience
-- NTT研究所 SIC
-## Research
-- 幾何計算アルゴリズム(Point-in-Polygon test)の高速化
+日本電信電話株式会社(NTT研究所)
 
-## Development
-- 全文検索エンジンを用いたシステム設計/キャパシティプランニング/調査
-- 高速データ管理技術の機能/性能検証
-- 機械学習/深層学習を用いた不良品検知
+- Research
+  - 幾何計算アルゴリズム(Point-in-Polygon test)の高速化
+
+- Development
+  - 全文検索エンジンを用いたシステム設計/キャパシティプランニング/調査
+  - 高速データ管理技術の機能/性能検証
+  - 機械学習/深層学習を用いた不良品検知
 
 # Education
 - 2012-2016

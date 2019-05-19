@@ -4,7 +4,7 @@ layout: default
 ---
 
 # AboutMe
-初めまして! 研究開発のお仕事をしている[tikeda](https://twitter.com/motacapla)と申します. 現在社会人2年目で, 現職では通信系企業で研究開発に携わっています. (2019/5/19 更新)
+研究開発のお仕事をしている池田(motacapla)と申します. 現在社会人2年目で, 現職では通信系企業で研究開発に携わっています. (2019/5/19 更新)
 
 # Skills
 ## Language
@@ -14,7 +14,7 @@ C/C++, Python, Java, Fortran, Golang, Vue.js
 Redis, Elasticsearch, PostGIS(PostgreSQL)
 
 ## Library
-GEOS, JTS topology suite, MPI, OpenMP
+MPI, OpenMP, GEOS, JTS topology suite
 
 ## Tool
 Git, Jupyter(notebook), Slack, Email
@@ -41,13 +41,14 @@ AWS, on-premises
   
 # Hobbies
 競技プログラミング, webアプリ開発, 技術書や技術記事を読むこと
+- [AtCoder](https://atcoder.jp/users/motacapla?lang=ja)
 - [競プロコンテストサイト(Vue.js + firebase)](https://bit.ly/2I58ioQ)
 - [世界各国のAmazonから最安値商品を検索するアプリ(Java)](https://qiita.com/motacapla/items/f02233f0feea7cad9244)
 - [バンディットアルゴリズム(Golang)](https://github.com/motacapla/Multi-armed-Bandit-Algorithms)
 
 # Interests
 ## 分野
-高速化, 幾何計算, データ分析(機械学習/深層学習を用いた回帰/分類/異常検知, 推薦), 強化学習, バンディット問題, 分散処理, 分散システム
+高速化, 幾何計算, 機械学習/深層学習, 推薦, 強化学習, バンディット問題, 分散処理, 分散システム
 
 ## 読んでいる/読んだ本リスト
  - プログラミングコンテストチャレンジブック, 秋葉拓哉, 岩田陽一, 北川宜稔.
@@ -68,5 +69,6 @@ AWS, on-premises
 - [RedisConf19参加記](https://medium.com/nttlabs/redisconf19-58eec0b1f6d2)
 
 # ContactMe
+気軽にDMください
 - twitter(@motacapla)
 - email(t.i.motacapla[at]gmail.com)

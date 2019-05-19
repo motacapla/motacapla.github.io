@@ -8,5 +8,5 @@ author:
   email:      't.i.motacapla[at]gmail.com'
 markdown:     rdiscount
 permalink:    pretty
-pygments:     true
+rouge:     true
 paginate:     5

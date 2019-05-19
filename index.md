@@ -35,7 +35,7 @@ AWS, on-premises
 競技プログラミング, web開発, 技術書や技術記事を読むこと
 - [競プロコンテストサイト(Vue.js + firebase)](https://bit.ly/2I58ioQ)
 - [世界各国のAmazonから最安値商品を検索するアプリ(Java)](https://qiita.com/motacapla/items/f02233f0feea7cad9244)
-- [バンディットアルゴリズムの実装(Golang)](https://github.com/motacapla/Multi-armed-Bandit-Algorithms)
+- [バンディットアルゴリズム(Golang)](https://github.com/motacapla/Multi-armed-Bandit-Algorithms)
 
 
 # Interests

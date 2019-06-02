@@ -11,19 +11,19 @@ layout: default
 C/C++, Python, Java, Fortran, Golang, Vue.js
 
 ## Database
-Redis, Elasticsearch, PostGIS(PostgreSQL)
+Redis, Elasticsearch, PostgreSQL, MySQL
 
 ## Library
-MPI, OpenMP, GEOS, JTS topology suite
+MPI, OpenMP, GEOS, etc
 
 ## Tool
-Git, Jupyter(notebook), Slack, Email
+Git, Jupyter(notebook), Slack
 
 ## Environment
 AWS, on-premises
 
 # Work Experience
-日本電信電話株式会社(NTT研究所)
+NTT研究所
 
 - Research
   - 幾何計算アルゴリズム(Point-in-Polygon test)の高速化

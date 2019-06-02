@@ -4,7 +4,7 @@ layout: default
 ---
 
 # AboutMe
-池田(@motacapla)と申します. 現在社会人2年目で, 現職では通信系企業で研究開発に携わっています. (2019/5/19 更新)
+池田(@motacapla)と申します. 社会人2年目で, 現職では通信系企業で研究開発に携わっています. (2019/06/02 更新)
 
 # Skills
 ## Language
@@ -38,13 +38,28 @@ AWS, on-premises
   - 名古屋工業大学 情報工学科: 強化学習(Q学習), マルチエージェントシステムの応用研究
 - 2016-2018
   - 名古屋大学大学院 情報科学研究科: スパコン(FX100)上における並列計算/メモリアクセス最適化/通信削減の研究
-  
+
 # Hobbies
-競技プログラミング, webアプリ開発, 技術書や技術記事を読むこと
+## webアプリ開発
+- [競技プログラミングコンテスト カレンダーサイト(Vue.js + firebase)](https://bit.ly/2I58ioQ)
+- [ボトルメールアプリ(Golang + MySQL)](https://bottlemail.appspot.com/)
+
+## 競技プログラミング
 - [AtCoder](https://atcoder.jp/users/motacapla?lang=ja)
 - [競プロコンテストサイト(Vue.js + firebase)](https://bit.ly/2I58ioQ)
-- [世界各国のAmazonから最安値商品を検索するアプリ(Java)](https://qiita.com/motacapla/items/f02233f0feea7cad9244)
+
+## その他
 - [バンディットアルゴリズム(Golang)](https://github.com/motacapla/Multi-armed-Bandit-Algorithms)
+- [世界各国のAmazonから最安値商品を検索するアプリ(Java)](https://qiita.com/motacapla/items/f02233f0feea7cad9244)
+- 映画鑑賞, 読書, ゲーム, アニメ, 技術書や技術記事を読むこと
+
+# Publications (first author only)
+- [時空間ブロッキングを用いたアジョイント法の高性能化～ForwardとBackwardの計算～, 池田 朋哉 et al., 情報処理学会論文誌コンピューティングシステム($
+- [Optimizing Forward Computation in Adjoint Method via Multi-level Blocking, Tomoya Ikeda et al., HPCAsia2018, 2018.](https://dl.acm.org/citatio$
+- [MPIと通信削減アルゴリズムによるアジョイント法の高性能化;池田 et al., 第162回HPC研究会, 2017.](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_$
+- [アジョイント法におけるForward modelへの階層ブロッキング適用による高性能化;池田 et al., 第157回HPC研究会, 2016.](https://ipsj.ixsq.nii.ac.jp/ej$
+- [DPMAT2018 発表資料](http://www.abc-lib.org/Workshop/DPMAT2017-ikeda.pdf)
+- [RedisConf19参加記](https://medium.com/nttlabs/redisconf19-58eec0b1f6d2)
 
 # Interests
 ## 分野
@@ -60,14 +75,6 @@ AWS, on-premises
  - 現代数理統計学の基礎, 久保川達也.
  - Pythonで動かして学ぶ! あたらしい深層学習の教科書(機械学習も), 石川 聡彦.
  - その他, パタヘネや技術書展の本など.
-
-# Publications (first author only)
-- [時空間ブロッキングを用いたアジョイント法の高性能化～ForwardとBackwardの計算～, 池田 朋哉 et al., 情報処理学会論文誌コンピューティングシステム(ACS) Vo.11 No.1 pp.12-26, 2018.](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=186724&item_no=1)
-- [Optimizing Forward Computation in Adjoint Method via Multi-level Blocking, Tomoya Ikeda et al., HPCAsia2018, 2018.](https://dl.acm.org/citation.cfm?id=3149458)
-- [MPIと通信削減アルゴリズムによるアジョイント法の高性能化;池田 et al., 第162回HPC研究会, 2017.](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=184896&item_no=1)
-- [アジョイント法におけるForward modelへの階層ブロッキング適用による高性能化;池田 et al., 第157回HPC研究会, 2016.](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_action_common_download&block_id=8&page_id=13&item_id=176384&item_no=1&attribute_id=1&file_no=1)
-- [DPMAT2018 発表資料](http://www.abc-lib.org/Workshop/DPMAT2017-ikeda.pdf)
-- [RedisConf19参加記](https://medium.com/nttlabs/redisconf19-58eec0b1f6d2)
 
 # ContactMe
 気軽にDMください

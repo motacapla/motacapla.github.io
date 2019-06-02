@@ -20,7 +20,7 @@ MPI, OpenMP, GEOS, etc
 Git, Jupyter(notebook), Slack
 
 ## Environment
-AWS, on-premises
+AWS, GCP, on-premise
 
 # Work Experience
 NTT研究所

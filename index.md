@@ -26,7 +26,7 @@ AWS, GCP, on-premise
 NTT研究所
 
 - Research
-  - 幾何計算アルゴリズム(Point-in-Polygon test)の高速化
+  - 幾何計算アルゴリズム(Point In Polygon test)の高速化
 
 - Development
   - 全文検索エンジンを用いたシステム設計/キャパシティプランニング/調査
@@ -54,10 +54,10 @@ NTT研究所
 - 映画鑑賞, 読書, ゲーム, アニメ, 技術書や技術記事を読むこと
 
 # Publications (first author only)
-- [時空間ブロッキングを用いたアジョイント法の高性能化～ForwardとBackwardの計算～, 池田 朋哉 et al., 情報処理学会論文誌コンピューティングシステム($
-- [Optimizing Forward Computation in Adjoint Method via Multi-level Blocking, Tomoya Ikeda et al., HPCAsia2018, 2018.](https://dl.acm.org/citatio$
-- [MPIと通信削減アルゴリズムによるアジョイント法の高性能化;池田 et al., 第162回HPC研究会, 2017.](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_$
-- [アジョイント法におけるForward modelへの階層ブロッキング適用による高性能化;池田 et al., 第157回HPC研究会, 2016.](https://ipsj.ixsq.nii.ac.jp/ej$
+- [時空間ブロッキングを用いたアジョイント法の高性能化～ForwardとBackwardの計算～, 情報処理学会論文誌コンピューティングシステム(ACS), Vo.11 No.1 pp.12-26, 2018.](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=186724&item_no=1)
+- [Optimizing Forward Computation in Adjoint Method via Multi-level Blocking, Tomoya Ikeda et al., HPCAsia2018, 2018.](https://www.researchgate.net/publication/322463601_Optimizing_Forward_Computation_in_Adjoint_Method_via_Multi-level_Blocking)
+- [MPIと通信削減アルゴリズムによるアジョイント法の高性能化, 池田 et al., 第162回HPC研究会, 2017.](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=184896&item_no=1)
+- [アジョイント法におけるForward modelへの階層ブロッキング適用による高性能化, 池田 et al., 第157回HPC研究会, 2016.](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_action_common_download&block_id=8&page_id=13&item_id=176384&item_no=1&attribute_id=1&file_no=1)
 - [DPMAT2018 発表資料](http://www.abc-lib.org/Workshop/DPMAT2017-ikeda.pdf)
 - [RedisConf19参加記](https://medium.com/nttlabs/redisconf19-58eec0b1f6d2)
 

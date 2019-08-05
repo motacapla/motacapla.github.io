@@ -10,7 +10,7 @@ layout: default
 ## Language
 C/C++, Python, Java, Fortran, Golang, Vue.js
 
-## Database
+## Middleware
 Redis, Elasticsearch, PostgreSQL, MySQL
 
 ## Library
@@ -30,7 +30,7 @@ NTT研究所
 
 - Development
   - 全文検索エンジンを用いたシステム設計/キャパシティプランニング/調査
-  - 高速データ管理技術の機能/性能検証
+  - 多次元データ向けのインデキシング機能/性能検証
   - 機械学習/深層学習を用いた不良品検知
 
 # Education
@@ -73,6 +73,7 @@ NTT研究所
  - 新板 数理計画入門, 福島 雅夫.
  - 現代数理統計学の基礎, 久保川達也.
  - Pythonで動かして学ぶ! あたらしい深層学習の教科書(機械学習も), 石川 聡彦.
+ - (NEW)SCRUM BOOT CAMP THE BOOK, 西村 直人, 永瀬 美穂, 吉羽 龍太郎.
  - その他, パタヘネや技術書展の本など.
 
 # ContactMe

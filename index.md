@@ -46,6 +46,7 @@ NTT研究所
 
 ## 競技プログラミング
 - [AtCoder](https://atcoder.jp/users/motacapla?lang=ja)
+- [Kaggle](https://www.kaggle.com/tikedameu)
 
 ## その他
 - [バンディットアルゴリズム(Golang)](https://github.com/motacapla/Multi-armed-Bandit-Algorithms)

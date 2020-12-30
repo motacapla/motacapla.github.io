@@ -4,62 +4,62 @@ layout: default
 ---
 
 # AboutMe
-池田(@motacapla)と申します. 
-社会人2年目です.
-前職では通信系の会社で研究開発に携わっていました. 
-現在は決済系の会社でSWEとして働いています.
-(2019/10/06 更新)
+My name is Tomoya Ikeda, working as a software engineer.
+I had worked as a researcher in company previously, and had decided to join current fintech company.
+(2020/12/30 Updated)
 
-# Skills
-## Language
-C/C++, Python, Java, Fortran, Golang, Vue.js
+# Techs
+## Programming Language (order by years' experience)
+Java, Python, C/C++, Fortran, Golang, React, etc..
 
 ## Middleware
-Redis, Elasticsearch, PostgreSQL, MySQL
+Kafka, Redis, Elasticsearch, PostgreSQL, MySQL, etc..
 
-## Library
-MPI, OpenMP, GEOS, etc
-
-## Tool
-Git, Jupyter(notebook), Slack
+## Development Tools
+Git, Kibana, Jupyter Notebook, ArgoCD, IntelliJ, VSCode
 
 ## Environment
 AWS, GCP, on-premise
 
 # Work Experience
-- 2018.04-2019.09
-  - NTT研究所
+- 2018/04/01-2019/09/30
+  - NTT : NTT研究所
     - Research
-      - 幾何計算アルゴリズム(Point In Polygon test)の高速化
+      - Performance improvement for Point In Polygon algorithm : 幾何計算アルゴリズムの高速化
     - Development
-      - 全文検索エンジンを用いたシステム設計/キャパシティプランニング/調査
-      - 多次元データ向けのインデキシング機能/性能検証
-      - 機械学習/深層学習を用いた不良品検知
-- 2019.10-Present
-  - PayPay
-    - Development
-      - BFF
+      - System design with Elasticsearch : 全文検索エンジンを用いたシステム設計/キャパシティプランニング/調査
+      - DB Indexing feature development for multi-dimensional continuous data : 多次元連続値データ向けのDBインデキシング機能/性能検証
+      - Defective product detection via machine learning/deep learning : 機械学習/深層学習を用いた不良品検知
+- 2019/10/01-Present
+  - PayPay 
+    - Development (BFF team)
+      - Existing feature/interface improvement
+      - Design novel feature/interface
+      - Implement complicated logics in core feature
+      - Pull request reviewing raised by team members
+      - E2E test (between native app/web and backend service)
+      - Performance measure by test
+      - Refactoring codebase
+      - Replaceing old endpoint of other service with new one
+      - Answering inquiries
 
 # Education
-- 2012-2016
+- 2012/04/01-2016/03/31
   - 名古屋工業大学 情報工学科: 強化学習(Q学習), マルチエージェントシステムの応用研究
-- 2016-2018
+- 2016/04/01-2018/03/31
   - 名古屋大学大学院 情報科学研究科: スパコン(FX100)上における並列計算/メモリアクセス最適化/通信削減の研究
 
 # Hobbies
-## webアプリ開発
-- [競技プログラミングコンテスト カレンダーサイト(Vue.js + firebase)](https://bit.ly/2I58ioQ)
-- [ボトルメールアプリ(Golang + MySQL)](https://bottlemail.appspot.com/)
+## Development
+- [JANOG47 NETCON VM管理サーバの開発](https://www.janog.gr.jp/meeting/janog47/netcon-app/)
+- [釣りが楽しくなるアプリTutter(React + Python)](http://tutter.org/)
+- [バンディットアルゴリズム(Golang)](https://github.com/motacapla/Multi-armed-Bandit-Algorithms)
+- [競技プログラミングコンテスト カレンダーサイト(Vue.js + firebase) (更新するサーバが止まっている..)](https://bit.ly/2I58ioQ)
+- [世界各国のAmazonから最安値商品を検索するアプリ(Java)](https://qiita.com/motacapla/items/f02233f0feea7cad9244)
 
-## 競技プログラミング
+## Competitive Programming
 - [AtCoder](https://atcoder.jp/users/motacapla?lang=ja)
 - [Kaggle](https://www.kaggle.com/tikedameu)
-IEEE fraud detectionはソロ銀でした！
-
-## その他
-- [バンディットアルゴリズム(Golang)](https://github.com/motacapla/Multi-armed-Bandit-Algorithms)
-- [世界各国のAmazonから最安値商品を検索するアプリ(Java)](https://qiita.com/motacapla/items/f02233f0feea7cad9244)
-- 映画鑑賞, 読書, ゲーム, アニメ, 技術書や技術記事を読むこと
 
 # Publications
 - [響け!動的計画法](https://speakerdeck.com/motacapla/xiang-ke-dong-de-ji-hua-fa-dp-ru-men-ge-ren-de-matome)
@@ -71,11 +71,10 @@ IEEE fraud detectionはソロ銀でした！
 - [DPMAT2018 発表資料](http://www.abc-lib.org/Workshop/DPMAT2017-ikeda.pdf)
 
 # Interests
-## 分野
+## Fields
 高速化, 幾何計算, 機械学習/深層学習, 推薦, 強化学習, バンディット問題, 分散処理, 分散システム
 
-## 読んでいる/読んだ本リスト
- - (Currently Reading) -> マスタリングTCP/IP, 竹下隆史, 村山公保, 荒井透, 苅田幸雄.
+## List of books I've read
  - リーダブルコード, Dustin Boswell, Trevor Foucher.
  - 達人に学ぶDB設計 徹底指南書, ミック.
  - プログラミングコンテストチャレンジブック, 秋葉拓哉, 岩田陽一, 北川宜稔.
@@ -85,11 +84,9 @@ IEEE fraud detectionはソロ銀でした！
  - バンディット問題の理論とアルゴリズム, 本多淳也, 中村篤祥.
  - 新板 数理計画入門, 福島 雅夫.
  - 現代数理統計学の基礎, 久保川達也.
- - Pythonで動かして学ぶ! あたらしい深層学習の教科書(機械学習も), 石川 聡彦.
  - SCRUM BOOT CAMP THE BOOK, 西村 直人, 永瀬 美穂, 吉羽 龍太郎.
- - その他, パタヘネや技術書展の本など.
+ - その他, パタヘネや技術書展の本など
 
 # ContactMe
-気軽にDMください
 - twitter(@motacapla)
 - email(t.i.motacapla[at]gmail.com)

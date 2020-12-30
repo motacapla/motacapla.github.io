@@ -85,6 +85,8 @@ AWS, GCP, on-premise
  - 新板 数理計画入門, 福島 雅夫.
  - 現代数理統計学の基礎, 久保川達也.
  - SCRUM BOOT CAMP THE BOOK, 西村 直人, 永瀬 美穂, 吉羽 龍太郎.
+ - Spring徹底入門 Spring FrameworkによるJavaアプリケーション開発, 株式会社NTTデータ.
+ - Effective Java, Joshua Bloch.
  - その他, パタヘネや技術書展の本など
 
 # ContactMe

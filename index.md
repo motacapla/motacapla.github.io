@@ -4,29 +4,35 @@ layout: default
 ---
 
 # AboutMe
-My name is Tomoya Ikeda, working as a software engineer.
-I had worked as a researcher in company previously, and had decided to join current fintech company.
-(2020/12/30 Updated)
+Name : Tomoya Ikeda
+Role : SWE (BE)
+(2022/04/02 Updated)
 
 # Work Experience
-- 2019/10/01-Present
-  - PayPay 
-    - Development (BFF and some small services)
-      - Have discussion with PM and other component leads to finalize the design/interface
-      - Implement/Improve complicated business logic in core feature
-      - Review pull request raised by team member
-      - Manage releases in every week
-      - Test thoroughly (E2E, UT, FT)
-        - Brought the thorough test culture into current team
-      - Measure performance by load test
-      - Refactoring
-        - Migrate endpoint to eliminate tech debt
-        - Refactor codebase
+- 2022/04/01-Present
+  - Cybozu
+    - Development
+      - Work on the new feature developemnt for kintone 
+- 2019/10/01-2022/03/31
+  - PayPay
+    - Management
+      - Lead 10+ members as tech lead (task assignment, 1 on 1, ..., etc)
+    - Development
+      - Design the architecture/API to create/improve features
+      - Have communicate with PM and other component leads to finalize the code design/interface
+      - Review pull request raised by others as code owner
+      - Contribute on the bff service as main committer, made the most line changes and commits
+      - Run the test thoroughly (E2E, UT, FT)
+      - Introduce the thorough test culture into current team
+      - Measure performance by load test and estimation
+      - Refactoring the codebase to apply the changes easily in the future
+      - Migrate endpoint to eliminate tech debt
+      - Manage releases once every week
       - Interview to hire engineers
-  I have worked on many developments such as the additional feature in payment flow, new payment flows, new cashback campaign impl, i18n, etc
+ Had worked on many core developments such as existing payment, new payment flows, new cashback campaign, i18n, etc.
 
 - 2018/04/01-2019/09/30
-  - NTT : NTT研究所
+  - NTT
     - Research
       - Performance improvement for Point In Polygon algorithm : 幾何計算アルゴリズムの高速化
     - Development

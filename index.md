@@ -42,7 +42,8 @@ I had worked as a researcher in company previously, and had decided to join curr
 
 # Hobbies
 ## Development
-- [JANOG47 NETCON VM管理サーバの開発](https://www.janog.gr.jp/meeting/janog47/netcon-app/)
+- [JANOG49 NETCON 自動採点機能の追加開発](https://www.janog.gr.jp/meeting/janog49/wp-content/uploads/2022/01/janog49-wrapup.pdf)
+- [JANOG47 NETCON VM管理サーバの開発](https://github.com/janog-netcon/netcon-vm-management-server)
 - [釣りが楽しくなるアプリTutter(React + Python)](http://tutter.org/)
 - [バンディットアルゴリズム(Golang)](https://github.com/motacapla/Multi-armed-Bandit-Algorithms)
 - [競技プログラミングコンテスト カレンダーサイト(Vue.js + firebase) (更新するサーバが止まっている..)](https://bit.ly/2I58ioQ)
@@ -54,7 +55,6 @@ I had worked as a researcher in company previously, and had decided to join curr
 
 # Publications
 - [響け!動的計画法](https://speakerdeck.com/motacapla/xiang-ke-dong-de-ji-hua-fa-dp-ru-men-ge-ren-de-matome)
-- [RedisConf19参加記](https://medium.com/nttlabs/redisconf19-58eec0b1f6d2)
 - [時空間ブロッキングを用いたアジョイント法の高性能化～ForwardとBackwardの計算～, 情報処理学会論文誌コンピューティングシステム(ACS), Vo.11 No.1 pp.12-26, 2018.](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=186724&item_no=1)
 - [Optimizing Forward Computation in Adjoint Method via Multi-level Blocking, Tomoya Ikeda et al., HPCAsia2018, 2018.](https://www.researchgate.net/publication/322463601_Optimizing_Forward_Computation_in_Adjoint_Method_via_Multi-level_Blocking)
 - [MPIと通信削減アルゴリズムによるアジョイント法の高性能化, 池田 et al., 第162回HPC研究会, 2017.](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=184896&item_no=1)
